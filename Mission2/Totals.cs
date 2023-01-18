@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Mission2
 {
+    // This class will be used to loop through the array of totals and calcute the percent of roles
     class Totals
     {
         public double[] TotalCounts(int[] diceArray, int diceRolls)

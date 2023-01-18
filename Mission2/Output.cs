@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Mission2
 {
+    // This class will print out the final results
     class Output
     {
         public void Print(double[] finalArray)
